@@ -215,3 +215,5 @@ Huge thanks to Rich Harris for inspiring this approach with [Shimport](https://g
 ### License
 
 MIT
+npm i es-module-shims
+
